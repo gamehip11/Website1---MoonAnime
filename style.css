@@ -1,0 +1,77 @@
+
+.jumbotron {
+ 
+  background-color: #5f89f3;
+  color: white;
+
+}
+
+
+
+
+h1,p,nav,body,h2  {
+
+  font-family: 'Kanit', sans-serif;
+}
+
+body {
+
+  padding-top: 0rem;
+  background: url(home-page-bg.png);
+  background-size: cover;
+  background-repeat: yes;
+  
+}
+
+h2 { 
+  
+  color: white;
+  padding-top: 10px;
+}
+
+
+
+
+
+.container {
+
+  width: auto;
+  
+  
+}
+
+.card {
+ color: black;
+  background-color: white;
+  border: 1px solid #01689A;
+  margin-bottom: 20px;
+  
+  
+  
+}
+
+.card-img-top { 
+
+  margin-top: 50px;
+  border: 3px solid #263165;
+  
+
+
+}
+
+.card-title-japan {
+
+  color: red;
+  
+}
+
+.card-title-eng {
+
+  color: blue;
+}
+
+.card-title-thai {
+
+  color: green;
+  
+}
